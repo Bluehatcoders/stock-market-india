@@ -7,8 +7,7 @@
     "node" : "14.x"
   },
   "scripts": {
-    "start": "node app.js 3000",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app.js 3000"
   },
   "repository": {
     "type": "git",
